@@ -1,4 +1,8 @@
 body{
+    font-family: 'Lora', serif;
+    font-weight:400;
+}
+body{
    background-image: url(/asset/img/fondo.png);
    background-repeat: no-repeat;
    background-size: cover;
